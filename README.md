@@ -1,0 +1,2 @@
+# dev-thoughts
+developing all
